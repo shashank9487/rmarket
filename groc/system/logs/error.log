@@ -1,0 +1,270 @@
+2015-01-21 10:49:15 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:49:59 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:50:12 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:50:16 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:50:52 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:52:09 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:52:22 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:52:38 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:52:54 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:53:26 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:53:32 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:53:42 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 443
+2015-01-21 10:54:12 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-21 10:54:34 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-21 11:59:53 - PHP Notice:  Undefined variable: pp_button in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/footer.tpl on line 41
+2015-01-21 14:22:23 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-21 18:11:46 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: success in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 80
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: error_warning in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 83
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: action in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 101
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: entry_email in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 103
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: email in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 107
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: entry_email in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 107
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: entry_password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 111
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 112
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: entry_password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 112
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: button_login in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 117
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: forgotten in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 119
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: text_forgotten in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 119
+2015-01-22 10:10:00 - PHP Notice:  Undefined variable: redirect in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 123
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: success in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 80
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: error_warning in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 83
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: action in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 101
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: entry_email in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 103
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: email in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 105
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: entry_email in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 105
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: entry_password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 109
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 110
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: entry_password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 110
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: button_login in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 115
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: forgotten in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 117
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: text_forgotten in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 117
+2015-01-22 10:12:23 - PHP Notice:  Undefined variable: redirect in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 121
+2015-01-22 10:41:31 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-22 10:41:37 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-22 12:41:20 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-24 7:42:09 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-24 8:14:31 - PHP Notice:  Undefined variable: text_register in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 280
+2015-01-24 8:14:31 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-24 8:20:36 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-24 8:22:42 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-24 9:17:26 - PHP Notice:  Undefined variable: column_subtotal in /home/dwarf/work/www/groc/catalog/view/theme/default/template/checkout/cart.tpl on line 47
+2015-01-24 9:17:44 - PHP Notice:  Undefined variable: column_subtotal in /home/dwarf/work/www/groc/catalog/view/theme/default/template/checkout/cart.tpl on line 47
+2015-01-27 7:25:56 - PHP Notice:  Undefined index: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 7:25:56 - PHP Notice:  Undefined index: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 7:25:56 - PHP Notice:  Undefined index: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 7:25:56 - PHP Notice:  Undefined index: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 7:46:55 - PHP Notice:  Undefined variable: product_ids_in_cart in /home/dwarf/work/www/groc/catalog/controller/module/featured.php on line 28
+2015-01-27 7:46:55 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:46:55 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:46:55 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:46:55 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:32 - PHP Notice:  Undefined variable: product_ids_in_cart in /home/dwarf/work/www/groc/catalog/controller/module/featured.php on line 29
+2015-01-27 7:47:32 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 4
+2015-01-27 7:47:32 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:32 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:32 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:32 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:32 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:44 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 4
+2015-01-27 7:47:44 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:44 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:44 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:44 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:44 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:44 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:44 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:47:44 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 38
+2015-01-27 7:48:57 - PHP Notice:  Undefined variable: bg_color in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 47
+2015-01-27 7:48:57 - PHP Notice:  Undefined variable: inactive in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 47
+2015-01-27 7:48:57 - PHP Notice:  Undefined variable: bg_color in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 47
+2015-01-27 7:48:57 - PHP Notice:  Undefined variable: inactive in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 47
+2015-01-27 7:48:57 - PHP Notice:  Undefined variable: bg_color in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 47
+2015-01-27 7:48:57 - PHP Notice:  Undefined variable: inactive in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 47
+2015-01-27 7:48:57 - PHP Notice:  Undefined variable: bg_color in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 47
+2015-01-27 7:48:57 - PHP Notice:  Undefined variable: inactive in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 47
+2015-01-27 8:07:12 - PHP Notice:  Undefined variable: bg_color in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 49
+2015-01-27 8:07:12 - PHP Notice:  Undefined variable: inactive in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 49
+2015-01-27 8:07:12 - PHP Notice:  Undefined variable: bg_color in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 49
+2015-01-27 8:07:12 - PHP Notice:  Undefined variable: inactive in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 49
+2015-01-27 8:07:12 - PHP Notice:  Undefined variable: bg_color in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 49
+2015-01-27 8:07:12 - PHP Notice:  Undefined variable: inactive in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 49
+2015-01-27 8:07:12 - PHP Notice:  Undefined variable: bg_color in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 49
+2015-01-27 8:07:12 - PHP Notice:  Undefined variable: inactive in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 49
+2015-01-27 8:23:23 - PHP Notice:  Array to string conversion in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 39
+2015-01-27 8:23:23 - PHP Notice:  Array to string conversion in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 39
+2015-01-27 8:23:23 - PHP Notice:  Array to string conversion in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 39
+2015-01-27 8:23:23 - PHP Notice:  Array to string conversion in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 39
+2015-01-27 8:39:28 - PHP Notice:  Array to string conversion in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 46
+2015-01-27 8:39:28 - PHP Notice:  Array to string conversion in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 46
+2015-01-27 8:39:28 - PHP Notice:  Array to string conversion in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 46
+2015-01-27 8:39:28 - PHP Notice:  Array to string conversion in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 46
+2015-01-27 9:54:59 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 9:54:59 - PHP Warning:  implode(): Invalid arguments passed in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 9:54:59 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 9:54:59 - PHP Warning:  implode(): Invalid arguments passed in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 9:54:59 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 9:54:59 - PHP Warning:  implode(): Invalid arguments passed in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 9:54:59 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 9:54:59 - PHP Warning:  implode(): Invalid arguments passed in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-27 10:41:13 - PHP Notice:  Undefined index: comment in /home/dwarf/work/www/groc/catalog/controller/checkout/shipping_method.php on line 131
+2015-01-27 10:42:24 - PHP Notice:  Undefined index: comment in /home/dwarf/work/www/groc/catalog/controller/checkout/shipping_method.php on line 131
+2015-01-27 10:43:33 - PHP Notice:  Undefined index: comment in /home/dwarf/work/www/groc/catalog/controller/checkout/shipping_method.php on line 131
+2015-01-27 10:43:52 - PHP Notice:  Undefined index: comment in /home/dwarf/work/www/groc/catalog/controller/checkout/shipping_method.php on line 131
+2015-01-27 10:44:08 - PHP Notice:  Undefined index: comment in /home/dwarf/work/www/groc/catalog/controller/checkout/payment_method.php on line 182
+2015-01-28 10:37:08 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:37:08 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:37:08 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:37:08 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:37:22 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:37:22 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:37:22 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:37:22 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:40:12 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:40:12 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:40:12 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:40:12 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:40:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:40:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:40:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:40:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:41:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:41:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:41:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:41:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 45
+2015-01-28 10:45:18 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 10:45:35 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 10:46:18 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_1-500x500.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_7-500x500.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_7-74x74.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_6-500x500.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_6-74x74.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_5-500x500.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_5-74x74.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_4-500x500.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_4-74x74.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_3-500x500.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_3-74x74.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_2-500x500.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:07 - PHP Warning:  imagejpeg(): Unable to open '/home/dwarf/work/www/groc/image/cache/catalog/demo/samsung_tab_2-74x74.jpg' for writing: Permission denied in /home/dwarf/work/www/groc/system/library/image.php on line 45
+2015-01-28 11:00:26 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 11:03:18 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 11:03:23 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 11:04:43 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 11:41:01 - PHP Warning:  Missing argument 1 for ControllerModuleFeatured::index(), called in /home/dwarf/work/www/groc/catalog/controller/module/featured.php on line 91 and defined in /home/dwarf/work/www/groc/catalog/controller/module/featured.php on line 3
+2015-01-28 11:41:01 - PHP Notice:  Undefined variable: setting in /home/dwarf/work/www/groc/catalog/controller/module/featured.php on line 20
+2015-01-28 11:41:01 - PHP Notice:  Undefined index: product in /home/dwarf/work/www/groc/catalog/controller/module/featured.php on line 32
+2015-01-28 11:41:01 - PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/dwarf/work/www/groc/catalog/controller/module/featured.php on line 32
+2015-01-28 11:41:01 - PHP Warning:  Invalid argument supplied for foreach() in /home/dwarf/work/www/groc/catalog/controller/module/featured.php on line 34
+2015-01-28 11:42:09 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 44
+2015-01-28 11:42:09 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 44
+2015-01-28 11:42:09 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 44
+2015-01-28 11:42:09 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 44
+2015-01-28 11:59:20 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/cart.tpl on line 3
+2015-01-28 12:00:16 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/cart.tpl on line 3
+2015-01-28 12:00:54 - PHP Notice:  Undefined variable: cart_products in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/cart.tpl on line 3
+2015-01-28 12:01:22 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:22 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:22 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:22 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:37 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:37 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:37 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:37 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:57 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:57 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:57 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 12:01:57 - PHP Notice:  Undefined variable: idstring in /home/dwarf/work/www/groc/catalog/view/theme/default/template/module/featured.tpl on line 37
+2015-01-28 13:06:37 - PHP Notice:  Undefined variable: data in /home/dwarf/work/www/groc/catalog/controller/common/cart.php on line 156
+2015-01-28 13:19:12 - PHP Notice:  Undefined variable: product_ids_in_cart in /home/dwarf/work/www/groc/catalog/controller/common/cart.php on line 155
+2015-01-29 12:18:00 - PHP Notice:  Undefined variable: shopping_cart in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/cart.tpl on line 4
+2015-01-29 12:18:00 - PHP Notice:  Undefined variable: text_shopping_cart in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/cart.tpl on line 4
+2015-01-29 12:18:00 - PHP Notice:  Undefined variable: text_shopping_cart in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/cart.tpl on line 4
+2015-01-29 14:10:37 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-29 14:15:28 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 8:01:02 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 440
+2015-01-30 8:10:43 - PHP Notice:  Undefined variable: text_your_details in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 133
+2015-01-30 8:10:43 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 8:11:19 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 8:11:22 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 9:28:09 - PHP Warning:  include(register.php): failed to open stream: No such file or directory in /home/dwarf/work/www/groc/catalog/controller/common/test.php on line 6
+2015-01-30 9:28:09 - PHP Warning:  include(): Failed opening 'register.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/dwarf/work/www/groc/catalog/controller/common/test.php on line 6
+2015-01-30 9:28:23 - PHP Warning:  include(register.php): failed to open stream: No such file or directory in /home/dwarf/work/www/groc/catalog/controller/common/test.php on line 6
+2015-01-30 9:28:23 - PHP Warning:  include(): Failed opening 'register.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/dwarf/work/www/groc/catalog/controller/common/test.php on line 6
+2015-01-30 9:28:43 - PHP Warning:  require(register.php): failed to open stream: No such file or directory in /home/dwarf/work/www/groc/catalog/controller/common/test.php on line 6
+2015-01-30 9:29:19 - PHP Warning:  require(../account/register.php): failed to open stream: No such file or directory in /home/dwarf/work/www/groc/catalog/controller/common/test.php on line 6
+2015-01-30 9:29:30 - PHP Warning:  require(account/register.php): failed to open stream: No such file or directory in /home/dwarf/work/www/groc/catalog/controller/common/test.php on line 6
+2015-01-30 9:32:22 - PHP Notice:  Undefined index: DOCUMENT_URI in /home/dwarf/work/www/groc/catalog/controller/common/test.php on line 8
+2015-01-30 10:06:47 - PHP Notice:  Undefined variable: email in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 137
+2015-01-30 10:06:47 - PHP Notice:  Undefined variable: text_your_password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 148
+2015-01-30 10:06:47 - PHP Notice:  Undefined variable: confirm in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 162
+2015-01-30 10:06:47 - PHP Notice:  Undefined variable: error_confirm in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 163
+2015-01-30 10:06:47 - PHP Notice:  Undefined variable: newsletter in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 177
+2015-01-30 10:06:47 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:09:41 - PHP Notice:  Undefined variable: text_your_password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 148
+2015-01-30 10:09:41 - PHP Notice:  Undefined variable: error_confirm in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 163
+2015-01-30 10:09:41 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:10:22 - PHP Notice:  Undefined variable: text_your_password in /home/dwarf/work/www/groc/catalog/view/theme/default/template/common/header.tpl on line 148
+2015-01-30 10:10:22 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:11:25 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:12:04 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:12:27 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:12:54 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:31:19 - PHP Notice:  Undefined index: firstname in /home/dwarf/work/www/groc/catalog/controller/account/register.php on line 353
+2015-01-30 10:31:19 - PHP Notice:  Undefined index: lastname in /home/dwarf/work/www/groc/catalog/controller/account/register.php on line 357
+2015-01-30 10:31:19 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:36:42 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 10:36:49 - PHP Notice:  Undefined variable: zone_id in /home/dwarf/work/www/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-01-30 11:01:16 - PHP Notice:  Trying to get property of non-object in /home/dwarf/work/www/groc/catalog/controller/product/product.php on line 161
+2015-01-30 12:27:11 - PHP Notice:  Undefined variable: total in /home/dwarf/work/www/groc/catalog/controller/checkout/cart.php on line 167
+2015-02-03 3:27:07 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-03 3:27:27 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-03 3:27:38 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-03 3:27:58 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-03 3:40:37 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-03 3:42:09 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:42:20 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:42:20 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:42:29 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:42:29 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:43:04 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:43:32 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:43:47 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:43:48 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:44:06 - PHP Notice:  Undefined index: zone_id in /var/www/html/groc/admin/view/template/sale/customer_form.tpl on line 399
+2015-02-03 3:44:21 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-03 9:01:48 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-03 9:02:11 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-03 9:03:24 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-04 6:31:11 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-04 6:32:05 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-04 6:49:45 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-04 6:58:10 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-04 6:58:12 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-04 7:59:08 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-04 9:49:02 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-06 8:49:35 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-06 8:50:59 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-06 8:53:34 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 439
+2015-02-06 9:17:42 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 449
+2015-02-06 9:42:01 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 449
+2015-02-06 10:40:59 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 449
+2015-02-06 10:40:59 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 449
+2015-02-07 11:38:46 - PHP Notice:  Undefined variable: zone_id in /var/www/html/groc/catalog/view/theme/default/template/account/register.tpl on line 449
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 157
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 158
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 159
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 160
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 161
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 162
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 163
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 164
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 165
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 166
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 167
+2015-02-08 10:19:21 - PHP Notice:  Undefined index: shipping_address in /var/www/html/groc/catalog/controller/checkout/confirm.php on line 168

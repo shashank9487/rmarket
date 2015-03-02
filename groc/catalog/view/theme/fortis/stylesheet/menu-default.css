@@ -1,0 +1,57 @@
+#menu > ul > li.withsubs {
+	position: relative;
+}
+/*second level div */
+#menu > ul > li > div { 
+	display:none;
+	background: #ffffff;
+	position: absolute;
+	left:4px;
+	z-index:-1;
+	padding: 15px 15px 15px 20px;
+	-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+#menu > ul > li:hover > div {
+	display: block;
+}
+#menu > ul > li ul + ul {
+	padding-left: 0px;
+}
+#menu > ul > li ul > li > a  {
+	color: #555555 !important;
+	line-height:22px;
+	display: block;
+	white-space: nowrap;
+	min-width: 150px;
+}
+#menu > ul > li ul > li > a:hover {
+	color:#000000 !important;
+}
+#menu > ul > li > div > ul > li.hasthird {
+   position:relative;
+}
+#menu > ul > li > div > ul > li.hasthird > a {
+   background: url('../image/right_arrow.png') 100% 50% no-repeat;
+}
+/*third level menu */
+#menu > ul > li > div > ul > li > div { 
+	background: #ffffff;
+	position: absolute;
+	z-index:10;
+	top:0px;
+	left:80px;
+	display:none;
+	padding: 15px;
+	-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+	border:1px solid #eeeeee;
+}
+#menu > ul > li > div > ul > li.hasthird:hover > div {
+    display: block;
+}
+#menu > ul > li > div > ul > li.hasthird > div a:hover { 
+	color:#000000 !important;
+}

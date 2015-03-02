@@ -1,0 +1,95 @@
+/*second level div */
+#menu > ul > li > div { 
+	display:none;
+	background: #ffffff;
+	position: absolute;
+	left:0px;
+	z-index: -1;
+	padding:25px 5px 10px 21px;
+	background-color:#fff;
+	width:934px; /*960 - padding*/
+	-moz-box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+}
+#menu > ul > li:hover > div {
+	display: block;
+}
+#menu > ul > li > div > ul {
+    list-style: none outside none;
+}
+
+#menu > ul > li ul > li > a {
+	color: #444444;
+	line-height:22px;
+	display: block;
+	white-space: nowrap;
+}
+#menu > ul > li ul > li > a:hover {
+	
+}
+#menu > ul > li > div > ul > li {
+    background:#f5f5f5;
+	display: inline-block;
+	float:none;
+	vertical-align:top;
+	margin-right:10px;
+	margin-bottom:10px;	
+	width:142px;
+}
+#menu > ul > li > div > ul > li.column-4 {
+    width:215px;
+	margin-right:15px;
+	margin-bottom:12px;	
+}
+#menu > ul > li > div > ul > li.column-5 {
+    width:173px;
+	margin-bottom:12px;	
+}
+#menu > ul > li > div > ul > li.column-6 {
+    width:142px;
+	margin-bottom:10px;	
+}
+#menu > ul > li > div > ul > li.column-7 {
+    width:122px;
+	margin-bottom:10px;	
+	margin-right:8px;
+}
+#menu > ul > li > div > ul > li.column-8 {
+    width:106px;
+	margin-bottom:10px;	
+	margin-right:7px;
+}
+#menu > ul > li > div > ul > li.column-8.hasthird > div { 	
+	padding: 10px 7px;
+}
+#menu > ul > li > div > ul > li.column-8 > a {
+	padding:8px;
+}
+#menu > ul > li > div > ul > li > a {
+	padding:10px;
+	font-size:14px;
+	line-height:15px;
+    color:#ce001a;
+	background:#f5f5f5;
+}
+#menu > ul > li > div > ul > li > a:hover{
+	background:#f9f9f9;
+}
+#menu > ul > li > div > ul > li > a span { /* Product counter for second level */
+    display:none;
+}
+
+/*third level menu */
+#menu > ul > li > div > ul > li.hasthird > div { 	
+	z-index: 98;
+	padding: 10px 10px 10px 10px;
+	box-shadow: none;
+	background:#ffffff;
+}
+#menu > ul > li > div > ul > li.hasthird > div a { 	
+	line-height:15px;
+}
+#menu > ul > li > div > ul > li.hasthird > div a:hover {
+	color:#066cc3;
+}

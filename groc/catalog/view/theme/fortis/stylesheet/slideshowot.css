@@ -1,0 +1,57 @@
+/* Custom slideshow */
+.r_slideshow-wrapper {
+	z-index:0;
+	margin-bottom:20px;
+	position:relative;
+}
+.cycle-slideshow, .cycle-slideshow * { 
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box; 
+}
+.cycle-slideshow { 
+	width: 100%;  
+	margin: auto; 
+	padding: 0; 
+}
+.cycle-slideshow > div { 
+    position: absolute; top: 0; left: 0;
+    width: 100%; padding: 0; background-color: #222; display: block;
+}
+.cycle-slideshow > div > a > img, .cycle-slideshow > div > img { 
+    width: 100%;
+    position: static;
+    display: block;
+}
+.r_slideshow-wrapper .slide_arrow_prev {
+	left:10px;
+	/* rest of styling under .slide_arrow_prev */
+}
+.r_slideshow-wrapper .slide_arrow_next {
+	right:10px;
+	/* rest of styling under .slide_arrow_next */
+}
+.cycle-pager { 
+    bottom:15px;
+	right:15px;
+	position:absolute;
+	z-index:101;
+}
+.cycle-pager span { 
+    cursor:pointer;
+	float:left;
+	width:20px;
+	height:20px;
+	margin-right:3px;
+	background: url('../image/tab-pager-ring-lgray.png') no-repeat;
+	text-indent:-9999px;
+}
+.cycle-pager span:hover, .cycle-pager span.cycle-pager-active:hover { 
+    background-position:0px -60px;
+}
+.cycle-pager span.cycle-pager-active { 
+	background-position:0px -30px;
+}
+.cycle-pager > * { 
+	cursor: pointer;
+}

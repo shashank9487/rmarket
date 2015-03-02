@@ -1,0 +1,15 @@
+/* God I hate Microsoft! */
+.nivo-directionNav a {
+	display:none;
+}
+.slider-wrapper:hover .nivo-directionNav a {
+	display:block;
+}
+#header #search input {
+	padding: 5px 27px 0px 5px;
+	height:18px;
+}
+#menu > ul > li > div, #header #cart.active .contentwrapper {
+	border-right:1px solid #dddddd;
+	border-bottom:1px solid #dddddd;
+}

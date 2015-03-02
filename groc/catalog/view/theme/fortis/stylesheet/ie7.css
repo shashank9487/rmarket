@@ -1,0 +1,74 @@
+/* God I hate Microsoft! */
+.clearfix {
+	height:0px;
+}
+#content .content.border {
+	zoom:1;
+}
+#content .content.border textarea {
+	width:90%;
+}
+#header .logo img {
+	margin-top:20px;
+}
+#header #search {
+	position: inherit;
+	float: right;
+}
+#header .button-search {
+	top: 10px;
+	right:6px;
+}
+#header #search input {
+	padding: 5px 27px 0px 5px;
+	height:18px;
+}
+.box-product {
+	border-bottom:8px solid #eeeeee;
+}
+#column-left .box-product, #column-right .box-product {
+	border-bottom:none !important;
+}
+#menu > ul > li > div > ul > li > div { 
+	left:150px;
+}
+/* menu wide */
+#menu > ul > li > div > ul > li {
+	float:left !important;
+}
+#menu > ul > li:hover > div {
+	display: block;
+}
+.success, .warning, .attention, .information {
+	position: relative;
+}
+.success .close, .warning .close, .attention .close, .information .close {
+	position: absolute;
+	right: 10px;
+}
+.box-product > div {
+	display: inline;
+}
+.product-grid > div {
+	display: inline;
+}
+.product-list > div {
+	overflow:auto;
+}
+.product-list .image img {
+	width:auto;
+}
+.product-list .cart .button {
+	width:auto;
+}
+/* button */
+.product-info a.button span, .button.input, input.button {
+	line-height: 12px;
+	padding:0px 7px; /* buttons on cart page etc. */
+}
+#footer .column {float:left}
+
+#menu > ul > li > div, #header #cart.active .contentwrapper {
+	border-right:1px solid #dddddd;
+	border-bottom:1px solid #dddddd;
+}
